@@ -17,7 +17,7 @@
   <img align="center" alt="David-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   
  <br/>
-<img align="right" style ="width:200px;" alt="david"  src="https://cdn.glitch.com/0a75facf-0b73-4db4-bea9-fac0b61ceef4%2F5nwi9k.gif?v=1632339830106">
+
 </div>
 
 
