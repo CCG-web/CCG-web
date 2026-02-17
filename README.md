@@ -4,12 +4,12 @@
 
 <h3>Stack</h3>
 <ul>
-  <li>JavaScript</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Java</li>
-  <li>React</li>
-  <li>Angular</li>
+  <li>🟨 JavaScript</li>
+  <li>🟧 HTML5</li>
+  <li>🟦 CSS3</li>
+  <li>☕ Java</li>
+  <li>⚛️ React</li>
+  <li>🅰️ Angular</li>
 </ul>
 
 <h3>Interesses</h3>
